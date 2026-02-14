@@ -1,4 +1,4 @@
-<h1 align="center">Lalit Gupta</h1>
+<h1 align="center">Hi, I am Lalit Gupta👋🤗</h1>
 
 <p align="center">
   I don't collect technologies — I build working software.
@@ -35,6 +35,8 @@ Every weekend (Saturday & Sunday) is reserved for learning and building.
 If I learn something, I implement it. Otherwise I don’t consider it learned.
 
 ---
+<h1 align="center">Connect me .🔗🔗</h1>
+
 <p align="center">
   <a href="https://github.com/Lg007-git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
