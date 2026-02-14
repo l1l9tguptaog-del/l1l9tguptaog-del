@@ -143,6 +143,37 @@ If you're building something interesting or need a backend engineer who likes so
 
 ## 📊 Contribution Analytics
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lg007-git&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
+</p>
+
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lg007-git&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 Performance Dashboard
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lg007-git&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lg007-git&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lg007-git&theme=tokyonight&hide_border=true" />
+</p>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lg007-git&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
@@ -166,14 +197,6 @@ If you're building something interesting or need a backend engineer who likes so
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lg007-git&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lg007-git&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lg007-git&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
