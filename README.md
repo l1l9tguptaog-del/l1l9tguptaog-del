@@ -27,7 +27,7 @@ servers that receive data, databases that store it, and interfaces that display 
 
 I care about things many projects ignore:
 - what happens after deployment
-- how an API behaves after 10,000 requests
+- how an API behaves
 - what breaks first
 - and how to fix it properly
 
@@ -35,7 +35,7 @@ Every weekend (Saturday & Sunday) is reserved for learning and building.
 If I learn something, I implement it. Otherwise I don’t consider it learned.
 
 ---
-<h1 align="center">Connect me .🔗🔗</h1>
+<h1 align="center">🔗 Connect With Me</h1>
 
 <p align="center">
   <a href="https://github.com/Lg007-git">
@@ -61,10 +61,10 @@ If I learn something, I implement it. Otherwise I don’t consider it learned.
 I approach programming as **system construction**, not feature writing.
 
 I enjoy:
-- designing backend architecture
-- tracing data from client → server → database → UI
-- debugging real issues
-- converting messy ideas into structured products
+🧩 designing backend architecture  
+🔄 tracing data from client → server → database → UI  
+🐞 debugging real issues  
+🛠 converting messy ideas into structured products 
 
 My goal is simple:  
 **idea → working system → deployed → usable**
@@ -77,11 +77,11 @@ My goal is simple:
 A working tracking system where a device sends location data every 3 seconds to a backend API, stores it in MongoDB, and displays it on a frontend dashboard.
 
 I built:
-- REST API to receive GPS coordinates
-- database storage and schema handling
-- live data fetching frontend
-- serverless deployment
-- now extending it into a native mobile app (Flutter) for better GPS accuracy
+✔ REST API to receive GPS coordinates  
+✔ Database storage and schema handling  
+✔ Live data fetching frontend  
+✔ Serverless deployment  
+✔ Now extending it into a native mobile app (Flutter) for better GPS accuracy
 
 This project taught me more than tutorials ever could — especially handling real data and real errors.
 
@@ -101,8 +101,8 @@ This project taught me more than tutorials ever could — especially handling re
 ## 📚 Learning Routine
 
 I dedicate weekends to improvement:
-- Saturday → learning new concepts
-- Sunday → implementing them into projects
+📘 Saturday → learning new concepts  
+🧪 Sunday → implementing them into projects  
 
 I prefer hands-on learning.  
 Tutorials are only useful if they end in a deployed application.
@@ -112,11 +112,10 @@ Tutorials are only useful if they end in a deployed application.
 ## 🧩 Interests
 
 Outside coding, I spend time on:
-- reading (technology & ideas)
-- brainstorming product concepts
-- analyzing how software startups work
-- system design thinking
-
+📖 reading (technology & ideas)  
+💡 brainstorming product concepts  
+📈 analyzing how software startups work  
+🏗 system design thinking 
 ---
 
 ## 🎮 Off The Terminal
@@ -127,9 +126,9 @@ Outside coding, I spend time on:
   <img src="https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif" width="160" />
 </p>
 
-Late-night debugging sessions.  
-2AM architecture thoughts.  
-And occasionally remembering to sleep.
+Late-night debugging sessions 🌙  
+2AM architecture thoughts 🧠💭  
+And occasionally remembering to sleep 😴
 
 ---
 
