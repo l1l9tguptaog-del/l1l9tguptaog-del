@@ -1,0 +1,33 @@
+name: Update Fun Fact
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # Updates every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Update Fun Fact
+        run: |
+          FACTS=(
+            "⚡ I once fixed a bug by deleting the entire file."
+            "🚀 I can center a div sometimes."
+            "🎮 I choose Charmander every time."
+            "🐍 Python > Everything."
+            "☕ Coffee powers my code."
+          )
+          RANDOM_FACT=${FACTS[$RANDOM % ${#FACTS[@]}]}
+          sed -i "/<!--START_SECTION:fun-fact-->/, /<!--END_SECTION:fun-fact-->/c\<!--START_SECTION:fun-fact-->\n$RANDOM_FACT\n<!--END_SECTION:fun-fact-->" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated fun fact" || exit 0
+          git push
